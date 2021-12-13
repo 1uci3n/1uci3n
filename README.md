@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1uci3n
-- 👀 I’m interested in machine learning, IoT, signal processing ...
+- 👀 I’m interested in machine learning, signal processing and IoT.
 - 🌱 I’m currently learning compressed sensing.
 <!---
 - 💞️ I’m looking to collaborate on ...
